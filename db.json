@@ -8,5 +8,18 @@
 
     {"id":4,"image":"https://upload.wikimedia.org/wikipedia/vi/thumb/a/a1/Man_Utd_FC_.svg/800px-Man_Utd_FC_.svg.png","name":"Trà xanh C2","price":15000}
     ]
+    ,
+    "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+    ],
+    "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+    ],
+    "profile": {
+    "name": "typicode"
+   }
 }
 
