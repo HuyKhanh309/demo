@@ -1,8 +1,12 @@
-[  
+{
+    "db": [  
     {"id":1,"image":"https://cdn.tgdd.vn/Products/Images/2443/125398/bhx/6-lon-nuoc-ngot-coca-cola-320ml-202304131108497884.jpg","name":"Coca","price":15000},
 
     {"id":2,"image":"https://www.lottemart.vn/media/catalog/product/cache/0x0/8/9/8934588233074.jpg","name":"Sting đỏ","price":10000},  
 
     {"id":3,"image":"https://satrafoods.com.vn/uploads/san-pham-cung-loai/8934588012228.jpg","name":"Pepsi","price":15000},
 
-    {"id":4,"image":"https://upload.wikimedia.org/wikipedia/vi/thumb/a/a1/Man_Utd_FC_.svg/800px-Man_Utd_FC_.svg.png","name":"Trà xanh C2","price":15000}]
+    {"id":4,"image":"https://upload.wikimedia.org/wikipedia/vi/thumb/a/a1/Man_Utd_FC_.svg/800px-Man_Utd_FC_.svg.png","name":"Trà xanh C2","price":15000}
+    ]
+}
+
